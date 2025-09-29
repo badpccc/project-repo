@@ -14,4 +14,4 @@ Este é um site repositório para demonstrar minhas Habilidades e Projetos.
 ## 👤 Autor
 
 Desenvolvido por [João Anderson](https://github.com/badpccc).  
-Sinta-se livre para contribuir ou adaptar este projeto ao seu perfil!
+Sinta-se livre para adaptar este projeto ao seu perfil!
